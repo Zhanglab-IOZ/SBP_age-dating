@@ -1,0 +1,66 @@
+echo panTro6 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/panTro6/hg38vspanTro6 ~/rd/gentree/species/panTro6/panTro6vshg38 panTro6 
+ sleep 5 
+echo ponAbe3 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/ponAbe3/hg38vsponAbe3 ~/rd/gentree/species/ponAbe3/ponAbe3vshg38 ponAbe3 
+ sleep 5 
+echo nomLeu3 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/nomLeu3/hg38vsnomLeu3 ~/rd/gentree/species/nomLeu3/nomLeu3vshg38 nomLeu3 
+ sleep 5 
+echo rheMac8 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/rheMac8/hg38vsrheMac8 ~/rd/gentree/species/rheMac8/rheMac8vshg38 rheMac8 
+ sleep 5 
+echo calJac3 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/calJac3/hg38vscalJac3 ~/rd/gentree/species/calJac3/calJac3vshg38 calJac3 
+ sleep 5 
+echo oryCun2 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/oryCun2/hg38vsoryCun2 ~/rd/gentree/species/oryCun2/oryCun2vshg38 oryCun2 
+ sleep 5 
+echo cavPor3 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/cavPor3/hg38vscavPor3 ~/rd/gentree/species/cavPor3/cavPor3vshg38 cavPor3 
+ sleep 5 
+echo rn6 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/rn6/hg38vsrn6 ~/rd/gentree/species/rn6/rn6vshg38 rn6 
+ sleep 5 
+echo mm10 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/mm10/hg38vsmm10 ~/rd/gentree/species/mm10/mm10vshg38 mm10 
+ sleep 5 
+echo oviAri4 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/oviAri4/hg38vsoviAri4 ~/rd/gentree/species/oviAri4/oviAri4vshg38 oviAri4 
+ sleep 5 
+echo canFam3 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/canFam3/hg38vscanFam3 ~/rd/gentree/species/canFam3/canFam3vshg38 canFam3 
+ sleep 5 
+echo bosTau8 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/bosTau8/hg38vsbosTau8 ~/rd/gentree/species/bosTau8/bosTau8vshg38 bosTau8 
+ sleep 5 
+echo loxAfr3 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/loxAfr3/hg38vsloxAfr3 ~/rd/gentree/species/loxAfr3/loxAfr3vshg38 loxAfr3 
+ sleep 5 
+echo monDom5 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/monDom5/hg38vsmonDom5 ~/rd/gentree/species/monDom5/monDom5vshg38 monDom5 
+ sleep 5 
+echo ornAna2 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/ornAna2/hg38vsornAna2 ~/rd/gentree/species/ornAna2/ornAna2vshg38 ornAna2 
+ sleep 5 
+echo galGal6 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/galGal6/hg38vsgalGal6 ~/rd/gentree/species/galGal6/galGal6vshg38 galGal6 
+ sleep 5 
+echo taeGut2 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/taeGut2/hg38vstaeGut2 ~/rd/gentree/species/taeGut2/taeGut2vshg38 taeGut2 
+ sleep 5 
+echo anoCar2 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/anoCar2/hg38vsanoCar2 ~/rd/gentree/species/anoCar2/anoCar2vshg38 anoCar2 
+ sleep 5 
+echo xenTro9 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/xenTro9/hg38vsxenTro9 ~/rd/gentree/species/xenTro9/xenTro9vshg38 xenTro9 
+ sleep 5 
+echo gasAcu1 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/gasAcu1/hg38vsgasAcu1 ~/rd/gentree/species/gasAcu1/gasAcu1vshg38 gasAcu1 
+ sleep 5 
+echo tetNig2 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/tetNig2/hg38vstetNig2 ~/rd/gentree/species/tetNig2/tetNig2vshg38 tetNig2 
+ sleep 5 
+echo danRer11 
+ perl ~/rd/gentree/scripts/dating_process/alignment_anx_input.pl age_dating_homo_sapiens_core_95_38  ~/rd/gentree/species/danRer11/hg38vsdanRer11 ~/rd/gentree/species/danRer11/danRer11vshg38 danRer11 
+ sleep 5 

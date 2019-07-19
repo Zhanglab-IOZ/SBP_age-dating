@@ -1,0 +1,26 @@
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 1 8264 > /rd/yuanh/gentree/human/exon.1 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 8265 16528 > /rd/yuanh/gentree/human/exon.2 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 16529 24792 > /rd/yuanh/gentree/human/exon.3 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 24793 33056 > /rd/yuanh/gentree/human/exon.4 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 33057 41320 > /rd/yuanh/gentree/human/exon.5 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 41321 49584 > /rd/yuanh/gentree/human/exon.6 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 49585 57848 > /rd/yuanh/gentree/human/exon.7 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 57849 66112 > /rd/yuanh/gentree/human/exon.8 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 66113 74376 > /rd/yuanh/gentree/human/exon.9 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 74377 82640 > /rd/yuanh/gentree/human/exon.10 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 82641 90904 > /rd/yuanh/gentree/human/exon.11 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 90905 99168 > /rd/yuanh/gentree/human/exon.12 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 99169 107432 > /rd/yuanh/gentree/human/exon.13 
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 107433 115696 > /rd/yuanh/gentree/human/exon.14 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 115697 123960 > /rd/yuanh/gentree/human/exon.15 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 123961 132224 > /rd/yuanh/gentree/human/exon.16 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 132225 140488 > /rd/yuanh/gentree/human/exon.17 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 140489 148752 > /rd/yuanh/gentree/human/exon.18 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 148753 157016 > /rd/yuanh/gentree/human/exon.19 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 157017 165280 > /rd/yuanh/gentree/human/exon.20 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 165281 173544 > /rd/yuanh/gentree/human/exon.21 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 173545 181808 > /rd/yuanh/gentree/human/exon.22 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 181809 190072 > /rd/yuanh/gentree/human/exon.23 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 190073 198336 > /rd/yuanh/gentree/human/exon.24 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 198337 206600 > /rd/yuanh/gentree/human/exon.25 &
+perl /rd/yuanh/gentree/scripts/dating_process/hs_dating.pl age_dating_homo_sapiens_core_95_38 206601 214864 > /rd/yuanh/gentree/human/exon.26 
