@@ -1,7 +1,7 @@
 
 # sbp-test
 
-A tempory page for Synteny-Based Pipeline (SBP) for gene age-dating, and inference for gene origination mechanism.
+A tempory repository page for Synteny-Based Pipeline (SBP) for gene age-dating, and inference for gene origination mechanism.
 
 For more details, please refer to:
 
