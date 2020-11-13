@@ -5,7 +5,7 @@ use IO::File;
 
 $mysql_database =$ARGV[0];
 $mysql_user= "yuanh";                      # $ARGV[1];
-$mysql_passwd="yuanhao123";    #$ARGV[2];
+$mysql_passwd="YOURPASSWD";    #$ARGV[2];
 #open(FILE,"pair_name_table")||die("Coudn't not open file");
 #while($line=<FILE>)
 #{
