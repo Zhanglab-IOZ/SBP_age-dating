@@ -33,7 +33,7 @@ use Data::Dumper;
 
 $mysql_align_database = $ARGV[0];
 $mysql_user = "yuanh";
-$mysql_passwd = "yuanhao123";
+$mysql_passwd = "YOURPASSWD";
 $string="DBI:mysql:database=".$mysql_align_database.";host=localhost";
 $dbh = DBI->connect($string,$mysql_user, $mysql_passwd,{'RaiseError' => 1});
 
