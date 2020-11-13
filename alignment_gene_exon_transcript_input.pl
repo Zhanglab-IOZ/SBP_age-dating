@@ -5,7 +5,7 @@ use IO::File;
 
 $mysql_align_database = $ARGV[0];
 $mysql_user = "yuanh";
-$mysql_passwd = "yuanhao123";
+$mysql_passwd = "YOURPASSWD";
 $file_gene = $ARGV[1];
 $file_exon = $ARGV[2];
 $file_transcript = $ARGV[3];
