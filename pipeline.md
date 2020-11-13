@@ -105,7 +105,7 @@ yuanhao
     ```
 
     ```bash 
-    $ perl alignment_ref_positions_change.pl age_dating_homo_sapiens_core_95_38 yuanh yuanhao123
+    $ perl alignment_ref_positions_change.pl age_dating_homo_sapiens_core_95_38 yuanh YOURPASSWD
     ```
 
 5.  dating-pipeline
