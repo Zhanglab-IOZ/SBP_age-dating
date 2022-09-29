@@ -22,7 +22,7 @@ my $opt_verbose = $options{'v'};
 # Initializing the EnsEMBL API
 my $opt_host = $options{'h'} || 'localhost';
 my $opt_user = $options{'u'} || 'yuanh';
-my $opt_password = $options{'p'} || 'yuanhao123';
+my $opt_password = $options{'p'} || 'PASSWORD';
 
 my $arg_dbname = $ARGV[0];
 
